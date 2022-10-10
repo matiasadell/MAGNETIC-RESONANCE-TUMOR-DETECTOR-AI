@@ -18,12 +18,12 @@ https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
 Recopilaron 3929 escáneres de resonancia magnética cerebral junto con
 la ubicación de su tumor cerebral.
 
-###Input
+### Input
 - MRI del cerebro.
 - Mascara original del tumor.
 - MRI con la mascara original.
 
-###Output
+### Output
 - Mascara predicha por la IA.
 - MRI con la mascara predicha por la IA.
 
