@@ -11,7 +11,7 @@ Se espera que el mercado de atención médica de IA alcance los $ 45.2 mil millo
 
 Se ha demostrado que el aprendizaje profundo es superior en la detección enfermedades de rayos X, resonancias magnéticas y tomografías computarizadas que podrían mejorar significativamente la velocidad y la precisión del diagnóstico.
 
-En este estudio de caso, he creado un modelo de inteligencia artificial, que reconoce y localiza tumores en resonancias magneticas. Esto reduciría drásticamente el costo del diagnóstico de cáncer y ayuda en el diagnóstico precoz de tumores que sería esencialmente una salvavidas
+En este estudio de caso, he creado un modelo de inteligencia artificial, que reconoce y localiza tumores en resonancias magneticas. Esto reduciría drásticamente el costo del diagnóstico de cáncer y ayuda en el diagnóstico precoz de tumores que sería esencialmente una salvavidas.
 
 ### Dataset
 https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
