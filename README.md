@@ -1,4 +1,4 @@
-# BREAST DISEASE DETECTOR | AI
+# Detector de Tumores del Cerebro | AI
 
 ### Introducción
 La Inteligencia Artificial está revolucionando la Salud en muchos áreas tales como:
