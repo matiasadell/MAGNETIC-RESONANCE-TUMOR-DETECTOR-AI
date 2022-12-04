@@ -13,6 +13,8 @@ Se ha demostrado que el aprendizaje profundo es superior en la detección enferm
 
 En este estudio de caso, he creado un modelo de inteligencia artificial, que reconoce y localiza tumores en resonancias magneticas. Esto reduciría drásticamente el costo del diagnóstico de cáncer y ayuda en el diagnóstico precoz de tumores que sería esencialmente una salvavidas.
 
+![](https://media-exp1.licdn.com/dms/image/C4D05AQEkcQVDcDkqww/feedshare-thumbnail_720_1280/0/1664585498373?e=1670727600&v=beta&t=UHk1lOVUxCWJqGMUd76iVCiVY4QHhQGcbqx9pXYGZWU)
+
 ### Dataset
 https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
 Recopilaron 3929 escáneres de resonancia magnética cerebral junto con
