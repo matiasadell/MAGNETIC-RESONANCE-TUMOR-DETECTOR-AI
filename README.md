@@ -1,4 +1,4 @@
-# Detector de Tumores del Cerebro | AI
+# Detector de Tumores del Cerebro | IA
 
 ### Introducción
 La Inteligencia Artificial está revolucionando la Salud en muchos áreas tales como:
