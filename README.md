@@ -1,6 +1,6 @@
-# MAGNETIC RESONANCE TUMOR DETECTOR | AI
+# BREAST DISEASE DETECTOR | AI
 
-### Introduccion
+### Introducción
 La Inteligencia Artificial está revolucionando la Salud en muchos áreas tales como:
 
 - Diagnóstico de enfermedades con imágenes médicas
